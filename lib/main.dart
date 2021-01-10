@@ -8,7 +8,7 @@ void main() {
 
   runApp(MaterialApp(
     home: SplashScreenView(
-      home: PerfilAdministrador(),
+      home: Home(),
       duration: 3000,
       imageSize: 130,
       imageSrc: "images/logomarca.png",
