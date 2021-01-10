@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606953618801",
+    "project_id": "churras-d5242",
+    "storage_bucket": "churras-d5242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606953618801:android:d6e0ed87512e1d2a358ad0",
+        "android_client_info": {
+          "package_name": "com.ojokssiok.churras_hammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606953618801-fm9im6lfppa1u2tkc4ukqtm73fibe6l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_b1MEpNa5rcX8IDU9osVRI2-ka-PP6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606953618801-fm9im6lfppa1u2tkc4ukqtm73fibe6l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
