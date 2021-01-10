@@ -1,3 +1,5 @@
+<img src= "https://github.com/marcossantan4/churras_hammer/blob/master/images/portfolio.png" width = 600>
+
 # churras_hammer
 
 Desafio Aceito por Marcos Santana, estudante de Análise e Desenvolvimento de Sistemas.
