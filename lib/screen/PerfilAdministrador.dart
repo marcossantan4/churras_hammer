@@ -104,9 +104,10 @@ class _PerfilAdministradorState extends State<PerfilAdministrador> {
                 child: Image.asset("images/logomarca.png", width: 200,),
 
               ),
-              DadosAdm(nome1: "VALOR TOTAL:", dados1: "R\$: 00:00", nome2: "PARTICIPANTES", dados2: "0",),
+              DadosAdm(nome1: "VALOR TOTAL:", dados1: "R\$: 00.00", nome2: "PARTICIPANTES", dados2: "0",),
               SizedBox(height: 20,),
-              DadosAdm(nome1: "TOTAL GASTO:", dados1: "R\$: 00:00", nome2: "CONVIDADPS", dados2: "R\$: 00:00",)
+              DadosAdm(nome1: "TOTAL GASTO:", dados1: "R\$: 00.00", nome2: "CONVIDADOS", dados2: "R\$: 00.00",),
+              DadosAdm(nome1: "GASTO COMIDA:", dados1: "R\$: 00.00", nome2: "GASTO BEBIDAS", dados2: "R\$: 00.00",)
             ],
           ),
         ),
