@@ -364,7 +364,7 @@ class _FormUsuarioState extends State<FormUsuario> {
     return Scaffold(
       backgroundColor: Color(0xFFF5F5F5),
       appBar: AppBar(
-        title: Text("BEM VINDO!"),
+        title: Text("PARTICIPAÇÃO"),
         backgroundColor: Color(0xFF23456E),
       ),
       body: SingleChildScrollView(

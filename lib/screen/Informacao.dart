@@ -13,7 +13,7 @@ class _InformacaoState extends State<Informacao> {
     return Scaffold(
         backgroundColor: Color(0xFFF5F5F5),
         appBar: AppBar(
-          title: Text("BEM VINDO!"),
+          title: Text("INFORMAÇÕES"),
           backgroundColor: Color(0xFF23456E),
         ),
         body: SingleChildScrollView(
